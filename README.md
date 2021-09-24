@@ -11,7 +11,7 @@
   3) Piirrä piirikuvio
   4) Komponenttilista, hinta
   5) Yhdistä wifi
-
+```
 int led1 = D0;
 
 int led2 = D7;
@@ -41,3 +41,4 @@ void loop() {
 
   delay(1000);
 }
+```
